@@ -1,0 +1,13 @@
+div{
+    height: 200px;
+    width: 200px;
+    margin: 2px;
+    background-color: blue;
+    float: left;
+
+}
+
+p{
+    columns: 3;
+    clear: left;
+}
